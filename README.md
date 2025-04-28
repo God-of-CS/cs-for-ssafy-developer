@@ -28,7 +28,7 @@ since 2025-04-03
 <br>
 
 - ##### 🌿 Spring
-  - [[spring]di, ioc](https://github.com/God-of-CS/cs-for-ssafy-developer/blob/main/Spring/%5BSpring%5D%20DI%2C%20DIP%2C%20IoC.md)
+  - [[spring] DI, DIP, IoC](https://github.com/God-of-CS/cs-for-ssafy-developer/blob/main/Spring/%5BSpring%5D%20DI%2C%20DIP%2C%20IoC.md)
 
 <br>
 
