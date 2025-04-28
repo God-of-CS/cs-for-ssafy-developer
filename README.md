@@ -45,7 +45,7 @@
 
 ## 💻 Computer Science
 
-- ### 🌐Network
+- ### 🌐 Network
 
   - [네트워크 기초](https://github.com/God-of-CS/cs-for-developer/blob/main/Network/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B0%9C%EB%85%90.md)
   - [물리계층과 데이터링크 계층](https://github.com/God-of-CS/cs-for-ssafy-developer/blob/main/Network/%EB%AC%BC%EB%A6%AC%EA%B3%84%EC%B8%B5%EA%B3%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A7%81%ED%81%AC%20%EA%B3%84%EC%B8%B5.md)
@@ -60,7 +60,7 @@
 
 ## 🦴 Framework
 
-- ##### 🌿 Spring
+- ### 🌿 Spring
   - [[spring] DI, DIP, IoC](https://github.com/God-of-CS/cs-for-ssafy-developer/blob/main/Spring/%5BSpring%5D%20DI%2C%20DIP%2C%20IoC.md)
 
 <br>
